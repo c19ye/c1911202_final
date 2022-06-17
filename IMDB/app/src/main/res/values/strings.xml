@@ -1,0 +1,7 @@
+<resources>
+    <string name="show_data">Search</string>
+    <string name="show_movie_name_edittext">Enter Movie Name...</string>
+    <string name="watchList_data_txt">WatchList</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
